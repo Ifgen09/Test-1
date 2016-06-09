@@ -1,0 +1,17 @@
+[
+	{
+	    firstName: "Vladislav",
+	    lastName: "Chapiuk",
+	    email: "razorch@ukr.net"
+	},
+	{
+	    firstName: "Kewa",
+	    lastName: "Adamovich",
+	    email: "kewa@ukr.net"
+	},
+	{
+	    firstName: "Onotole",
+	    lastName: "Chuka",
+	    email: "tolik@ukr.net"
+	},
+]
